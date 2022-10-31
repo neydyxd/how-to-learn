@@ -1,4 +1,4 @@
-@import url(../vendor/normolize.css);
+@import url(../vendor/normalize.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/feynman/feynman.css);
@@ -43,7 +43,7 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(../blocks/rotate/rotate.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__image/cards__image.css);
