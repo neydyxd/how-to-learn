@@ -1,0 +1,7 @@
+.cards__item{
+    max-width: 240px;
+    padding-top: 60px;
+}
+.cards__item:last-of-type{
+    margin-right: 340px;
+}
